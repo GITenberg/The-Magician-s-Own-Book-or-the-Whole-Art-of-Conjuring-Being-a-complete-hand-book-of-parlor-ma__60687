@@ -1,0 +1,34 @@
+_repo: The-Magician-s-Own-Book-or-the-Whole-Art-of-Conjuring-Being-a-complete-hand-book-of-parlor-ma__60687
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Arnold, George
+    birthdate: 1834
+    deathdate: 1865
+    gutenberg_agent_id: '5849'
+    url: http://www.gutenberg.org/2009/agents/5849
+    wikipedia: http://en.wikipedia.org/wiki/George_Arnold
+  - agent_name: Cahill, Frank
+    gutenberg_agent_id: '51084'
+    url: http://www.gutenberg.org/2009/agents/51084
+description: ''
+gutenberg_issued: '2019-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60687'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Magic tricks -- Handbooks, manuals, etc.'
+- !lcsh 'Tricks -- Handbooks, manuals, etc.'
+- GITenberg
+title: "The Magician's Own Book, or, the Whole Art of Conjuring\r\nBeing a complete\
+  \ hand-book of parlor magic, and containing over one thousand optical, chemical,\
+  \ mechanical, magnetical, and magical experiments, amusing transmutations, astonishing\
+  \ sleights and subtleties, celebrated card deceptions, ingenious tricks with numbers,\
+  \ curious and entertaining puzzles, together with all the most noted tricks of modern\
+  \ performers."
+url: http://www.gutenberg.org/ebooks/60687
