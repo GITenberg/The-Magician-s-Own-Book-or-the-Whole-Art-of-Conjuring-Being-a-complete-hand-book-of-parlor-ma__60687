@@ -1,5 +1,8 @@
 _repo: The-Magician-s-Own-Book-or-the-Whole-Art-of-Conjuring-Being-a-complete-hand-book-of-parlor-ma__60687
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60687-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Arnold, George
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '51084'
     url: http://www.gutenberg.org/2009/agents/51084
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60687#The-Magician-s-Own-Book-or-the-Whole-Art-of-Conjuring-Being-a-complete-hand-book-of-parlor-ma_
 gutenberg_issued: '2019-11-14'
 gutenberg_type: Text
 identifiers:
